@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ekaanshjain1908
-- 👀 I’m interested in coding and badminon
+- 👀 I’m interested in coding, badminton and table tennis
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on literally nothing
 - 📫 How to reach me
